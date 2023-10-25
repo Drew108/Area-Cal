@@ -19,5 +19,4 @@ For the rectangle:
 Length = 4.5
 Width = 10.0
 For the circle:
-Radius = 5.2
-Ensure your Java code is beginner-friendly! :thumbsup:
+Radius = 5.2 
